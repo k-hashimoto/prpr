@@ -55,7 +55,7 @@ gem "prpr-conflict_label"
 ### Deploy
 See [prpr-template](https://github.com/mzp/prpr-template) for example.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mzp/prpr-template)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/k-hashimoto/prpr.git)
 
 ### Setup webhook
 
